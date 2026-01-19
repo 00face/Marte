@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Marte - itch.io Power Suite
 // @namespace    http://tampermonkey.net/
-// @version      1.4
+// @version      3.2
 // @description  Silent pages, fix images, block users/games. Includes Import/Export & Manager.
 // @author       00FACE/Armando Cornaglia
 // @license      MIT
